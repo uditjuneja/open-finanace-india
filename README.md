@@ -1,2 +1,3 @@
-# open-finance-india
-Free Tools for KYC and other finance related stuff.
+# Open Financial APIs (India)
+Free Tools for KYC, user verification, and basic fintech related stuff.
+
