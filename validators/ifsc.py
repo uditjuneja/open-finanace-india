@@ -15,7 +15,7 @@ class IFSC:
 
     def search_ifsc(IFSC):
         try:
-            ifsc_detail = self.df[self.df["IFSC"] == IFSC].to_dict('r')[0]
+            ifsc_detail = self.df[self.df["IFSC"] == IFSC].to_dict("r")[0]
             return ifsc_detail
 
         except:
